@@ -9,6 +9,13 @@
 
 <hr />
 
+<h3>Projects</h3>
+<ul>
+  <a href="https://github.com/austincrotts97/PhotoCleaner">
+    <li>Photo Metadata Cleaner</li>
+ </ul>
+
+
 <h3>Current Focus</h3>
 <ul>
   <li>Navigating my degree path at CSUSM.</li>
