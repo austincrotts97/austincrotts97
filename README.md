@@ -12,7 +12,7 @@
 <h3>Current Focus</h3>
 <ul>
   <li>Navigating my degree path at CSUSM.</li>
-  <li>Developing the skills reqiured to be sucessful in the tech industry.</li>
+  <li>Developing the skills required to be successful in the tech industry.</li>
  </ul>
 
 <hr />
